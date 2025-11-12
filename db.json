@@ -4,42 +4,77 @@
       "picture": "pic1.jpg",
       "nim": "105022410036",
       "nama": "Gracelia Gandey",
-      "ttl": "kuyanga 20 September 2005",
+      "ttl": "Kuyanga, 20 September 2005",
       "umur": 20,
-      "alamat": "Desa kuyanga 1 jaga 1",
-      "fakultas": "komputer",
-      "jurusan": "informatika",
-      "agama": "kristen Advent"
+      "agama": "Kristen",
+
+      "status": "Belum Menikah",
+      "kewarganegaraan": "Indonesia",
+
+      "jenis_kelamin": "Perempuan",
+      "tinggi_badan": "165 cm",
+      "golongan_darah": "-",
+      "moto_hidup": "Ciptakan kedamaian batin, dan sisanya akan mengikuti",
+
+      "kontak": {
+        "email": "s22229024@student.unklab.ac.id",
+        "telepon": "081241949374",
+        "alamat_rumah": "Desa Kuyanga 1 Jaga 1 "
+      },
+
+      "pendidikan": [
+        {
+          "jenjang": "SD",
+          "sekolah": "SD Gmim Kuyanga",
+          "tahun_lulus": 2017
+        },
+        {
+          "jenjang": "SMP",
+          "sekolah": "SMP Negeri 6 Tombatu",
+          "tahun_lulus": 2020
+        },
+        {
+          "jenjang": "SMA",
+          "sekolah": "SMA Negeri 1 Tomobatu",
+          "tahun_lulus": 2023,
+          "jurusan": "IPA"
+        },
+        {
+          "jenjang": "Sarjana (S-1)",
+          "kampus": "Universitas Klabat",
+          "fakultas": "Ilmu Komputer",
+          "program_studi": "Informatika",
+          "angkatan": 2024,
+          "tingkat":2
+        }
+      ],
+
+      "soft_skills": [
+        "Communication",
+        "Time Management",
+        "Team Collaboration"
+      ],
+
+      "hobi": [
+        "Membaca Novel",
+        "Belajar"
+      ]
     }
   ],
-  
+
   "posts": [
-    {
-      "id": "1",
-      "title": "Data Pribadi",
-      "views": 100
-    },
-    {
-      "id": "2",
-      "title": "Latar Belakang Pendidikan",
-      "views": 20
-    }
+    { "id": "1", "title": "Data Pribadi", "views": 100 },
+    { "id": "2", "title": "Latar Belakang Pendidikan", "views": 20 },
+    { "id": "3", "title": "Keahlian & Portofolio", "views": 10 }
   ],
-  
+
   "comments": [
-    {
-      "id": "1",
-      "text": "Ini adalah data 'celia' dengan ID 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "text": "Informasi tentang Fakultas Komputer",
-      "postId": "2"
-    }
+    { "id": "1", "text": "Ini adalah data Gracelia dengan ID 1", "postId": "1" },
+    { "id": "2", "text": "Informasi tentang Fakultas Komputer", "postId": "2" },
+    { "id": "3", "text": "Skill yang sangat bagus!", "postId": "3" }
   ],
-  
+
   "profile": {
-    "name": "celia's-biodata"
+    "name": "Biodata Gracelia"
   }
 }
