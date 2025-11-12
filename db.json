@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "picture": "pic1.jpg",
+      "nim": "105022410036",
+      "nama": "Gracelia Gandey",
+      "ttl": "kuyanga 20 September 2005",
+      "umur": 20,
+      "alamat": "Desa kuyanga 1 jaga 1",
+      "fakultas": "komputer",
+      "jurusan": "informatika",
+      "agama": "kristen Advent"
+    }
+  ],
+  
+  "posts": [
+    {
+      "id": "1",
+      "title": "Data Pribadi",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "Latar Belakang Pendidikan",
+      "views": 20
+    }
+  ],
+  
+  "comments": [
+    {
+      "id": "1",
+      "text": "Ini adalah data 'celia' dengan ID 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "Informasi tentang Fakultas Komputer",
+      "postId": "2"
+    }
+  ],
+  
+  "profile": {
+    "name": "celia's-biodata"
+  }
+}
